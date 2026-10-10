@@ -2,6 +2,8 @@
 
 Code, results and figures for a cross-dataset, compute-constrained benchmark of five CPU-only open-set detectors, evaluated on NSL-KDD and CICIoT2023 with a leave-attack-category-out protocol.
 
+**Repository:** https://github.com/hiluxfnh/zero-day-ids-open-set-benchmark
+
 **Author:** Hilux Fokou Ngoumo, M.Sc. Information Security, Faculty of Secure Information Technologies, ITMO University, Saint Petersburg, Russia.
 **Supervisor:** Prof. Sergey V. Bezzateev. **Working consultant:** Maxim Y. Fedosenko.
 
